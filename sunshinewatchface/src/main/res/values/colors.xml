@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="background">@color/white</color>
+
+    <!-- using the "Light Blue" Material Palette -->
+    <color name="primary">#03A9F4</color>  <!-- 500 -->
+    <color name="primary_dark">#0288D1</color>  <!-- 700 -->
+    <color name="primary_light">#B3E5FC</color> <!-- 100 -->
+    <color name="accent">#FFD740</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="detail_accent_pane_background">#455A64</color>
+
+
+    <!--Circle colors-->
+    <color name="clear">@color/primary_light</color>
+    <color name="cloudy">#ddd</color>
+    <color name="storm">#bbb</color>
+    <color name="rain">@color/primary</color>
+    <color name="snow">#e4e4e4</color>
+</resources>
